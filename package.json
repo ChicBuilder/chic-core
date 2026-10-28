@@ -1,0 +1,21 @@
+{
+  "name": "@chicbuilder/chic-core",
+  "version": "0.1.0",
+  "description": "Biomechanical rep velocity tracking and offline PWA sync state machine",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "bun test"
+  },
+  "keywords": [
+    "fitness",
+    "biomechanics",
+    "pwa",
+    "offline-first",
+    "velocity"
+  ],
+  "author": "Daksh Rawat (Kukzze)",
+  "license": "MIT"
+}
